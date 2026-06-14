@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" width="320" height="80" role="img" aria-label="MiniDelights logo">
+  <defs>
+    <style>
+      .logo-text-mini { font-family: 'Fredoka', 'Nunito', Arial, sans-serif; font-weight: 600; font-size: 36px; fill: #5C2A1E; }
+      .logo-text-delights { font-family: 'Fredoka', 'Nunito', Arial, sans-serif; font-weight: 600; font-size: 36px; fill: #EE6FA0; }
+    </style>
+  </defs>
+
+  <!-- Donut body -->
+  <circle cx="40" cy="40" r="28" fill="#F9A8C9"/>
+  <!-- Donut hole -->
+  <circle cx="40" cy="40" r="10" fill="#FFF8F0"/>
+  <!-- Glaze highlight -->
+  <ellipse cx="36" cy="26" rx="12" ry="7" fill="#F472B6" opacity="0.5"/>
+
+  <!-- Sprinkles -->
+  <rect x="26" y="20" width="5" height="2" rx="1" fill="#EE6FA0" transform="rotate(30 28 21)"/>
+  <rect x="50" y="22" width="5" height="2" rx="1" fill="#6FE0B0" transform="rotate(-20 52 23)"/>
+  <rect x="55" y="36" width="5" height="2" rx="1" fill="#FFD166" transform="rotate(50 57 37)"/>
+  <rect x="48" y="52" width="5" height="2" rx="1" fill="#FFF8F0" transform="rotate(-35 50 53)"/>
+  <rect x="26" y="50" width="5" height="2" rx="1" fill="#F472B6" transform="rotate(15 28 51)"/>
+  <rect x="18" y="36" width="5" height="2" rx="1" fill="#6FE0B0" transform="rotate(-50 20 37)"/>
+
+  <!-- Cute eyes -->
+  <circle cx="34" cy="37" r="2.5" fill="#5C2A1E"/>
+  <circle cx="46" cy="37" r="2.5" fill="#5C2A1E"/>
+  <!-- Eye shine -->
+  <circle cx="35" cy="36" r="0.8" fill="white"/>
+  <circle cx="47" cy="36" r="0.8" fill="white"/>
+  <!-- Smile -->
+  <path d="M35 44 Q40 48 45 44" stroke="#5C2A1E" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+
+  <!-- Bite mark -->
+  <path d="M56 26 Q68 14 68 28 Q60 24 56 26Z" fill="#FFF8F0"/>
+
+  <!-- Little arms -->
+  <ellipse cx="14" cy="44" rx="5" ry="3" fill="#F9A8C9" transform="rotate(-20 14 44)"/>
+  <ellipse cx="66" cy="44" rx="5" ry="3" fill="#F9A8C9" transform="rotate(20 66 44)"/>
+
+  <!-- Little feet -->
+  <ellipse cx="34" cy="67" rx="5" ry="3" fill="#F9A8C9"/>
+  <ellipse cx="46" cy="67" rx="5" ry="3" fill="#F9A8C9"/>
+
+  <!-- Wordmark -->
+  <text x="84" y="52" class="logo-text-mini">Mini</text>
+  <text x="154" y="52" class="logo-text-delights">Delights</text>
+</svg>
