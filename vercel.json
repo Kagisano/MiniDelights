@@ -1,0 +1,29 @@
+{
+  "redirects": [
+    {
+      "source": "/order.html",
+      "destination": "https://wa.me/27615442805?text=Hi%20Mini%20Delights!%20I%27d%20like%20to%20place%20an%20order.",
+      "permanent": false
+    },
+    {
+      "source": "/contact.html",
+      "destination": "https://wa.me/27615442805",
+      "permanent": false
+    },
+    {
+      "source": "/gang.html",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/about.html",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/find-us.html",
+      "destination": "/",
+      "permanent": false
+    }
+  ]
+}
